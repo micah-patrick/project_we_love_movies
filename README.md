@@ -1,4 +1,4 @@
-![We Love Movies](./readme/readme-header.png "We Love Movies")
+![We Love Movies](https://raw.githubusercontent.com/micah-patrick/project_we_love_movies-server/main/readme/readme-header.png "We Love Movies")
 
 #
 # We Love Movies
@@ -15,7 +15,7 @@ Thinkful backend capstone. This is an API for an app that displays movies, what 
 
 #
 ## TABLES
-![ERD](./readme/erd.png "ERD")
+![ERD](https://raw.githubusercontent.com/micah-patrick/project_we_love_movies-server/main/readme/erd.png "ERD")
 #
 ### Critics
 
